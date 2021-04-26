@@ -1,0 +1,9 @@
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\bin\Debug\MagicEightBallApplication.exe.config
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\bin\Debug\MagicEightBallApplication.exe
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\bin\Debug\MagicEightBallApplication.pdb
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\obj\Debug\MagicEightBallApplication.csprojResolveAssemblyReference.cache
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\obj\Debug\MagicEightBallApplication.frmMagicEightBall.resources
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\obj\Debug\MagicEightBallApplication.Properties.Resources.resources
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\obj\Debug\MagicEightBallApplication.csproj.GenerateResource.Cache
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\obj\Debug\MagicEightBallApplication.exe
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\MagicEightBallApplication\MagicEightBallApplication\MagicEightBallApplication\obj\Debug\MagicEightBallApplication.pdb
